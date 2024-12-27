@@ -1,0 +1,10 @@
+/home/ivannoritsin/ВУЗ/3-йкурс/SDR/SDR/sdrLessons/CMakeFiles/edit_cache.dir
+/home/ivannoritsin/ВУЗ/3-йкурс/SDR/SDR/sdrLessons/CMakeFiles/rebuild_cache.dir
+/home/ivannoritsin/ВУЗ/3-йкурс/SDR/SDR/sdrLessons/tests/CMakeFiles/edit_cache.dir
+/home/ivannoritsin/ВУЗ/3-йкурс/SDR/SDR/sdrLessons/tests/CMakeFiles/rebuild_cache.dir
+/home/ivannoritsin/ВУЗ/3-йкурс/SDR/SDR/sdrLessons/tests/tun_test/CMakeFiles/tun_test.dir
+/home/ivannoritsin/ВУЗ/3-йкурс/SDR/SDR/sdrLessons/tests/tun_test/CMakeFiles/edit_cache.dir
+/home/ivannoritsin/ВУЗ/3-йкурс/SDR/SDR/sdrLessons/tests/tun_test/CMakeFiles/rebuild_cache.dir
+/home/ivannoritsin/ВУЗ/3-йкурс/SDR/SDR/sdrLessons/tests/soapy_pluto/CMakeFiles/soapy_pluto_sdr_timestamp.dir
+/home/ivannoritsin/ВУЗ/3-йкурс/SDR/SDR/sdrLessons/tests/soapy_pluto/CMakeFiles/edit_cache.dir
+/home/ivannoritsin/ВУЗ/3-йкурс/SDR/SDR/sdrLessons/tests/soapy_pluto/CMakeFiles/rebuild_cache.dir
