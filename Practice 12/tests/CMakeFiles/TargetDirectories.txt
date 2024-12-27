@@ -1,0 +1,3 @@
+/home/ivannoritsin/ВУЗ/3-й курс/SDR/sdrLessons/tests/CMakeFiles/main.dir
+/home/ivannoritsin/ВУЗ/3-й курс/SDR/sdrLessons/tests/CMakeFiles/edit_cache.dir
+/home/ivannoritsin/ВУЗ/3-й курс/SDR/sdrLessons/tests/CMakeFiles/rebuild_cache.dir
